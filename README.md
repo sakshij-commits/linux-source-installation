@@ -14,7 +14,7 @@ software from source code on Linux.
 7. Run `./configure`
 8. Compile using `make`
 9. Install using `make install`
-10. Verify the installationx
+10. Verify the installation
 
 ## Commands Used
 
